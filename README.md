@@ -1,5 +1,5 @@
 # 19CS412 -- CRYPTOGRAPHY -- CLASSICAL TECHNIQUES
-# CAESER CIPHER 
+# EXP 1: CAESER CIPHER 
 Caeser Cipher using with different key values
 
 ## AIM:
@@ -100,7 +100,7 @@ The Caeser Cipher program is executed successfully.
 
 ---------------------------------
 
-# PlayFair Cipher
+# EXP 2: PlayFair Cipher
 Playfair Cipher using with different key values
 
 ## AIM:
@@ -346,7 +346,7 @@ The Program for Play Fair is executed successfully.
 
 ---------------------------
 
-# Hill Cipher
+# EXP 3:Hill Cipher
 Hill Cipher using with different key values
 
 ## AIM:
@@ -474,7 +474,7 @@ The Program for Hill Cipher is executed successfully.
 
 -------------------------------------------------
 
-# Vigenere Cipher
+#  EXP 4:Vigenere Cipher
 Vigenere Cipher using with different key values
 
 ## AIM:
@@ -585,7 +585,7 @@ The Program for Vigenere Cipher is executed successfully.
 
 -----------------------------------------------------------------------
 
-# Rail Fence Cipher
+# EXP 5:Rail Fence Cipher
 Rail Fence Cipher using with different key values
 
 ## AIM:
