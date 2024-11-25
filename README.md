@@ -715,7 +715,8 @@ int main() {
 
 ```
 ## OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/09c5689b-9d7b-4a3d-8a45-f97a6a81a2fb)
+
 
 ## RESULT:
 The Program for Rail Fence is executed successfully.
